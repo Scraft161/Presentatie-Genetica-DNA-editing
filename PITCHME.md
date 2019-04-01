@@ -32,3 +32,27 @@ Cas-9 oftewel CRISPR associated proteine 9 is een RNA gestuurde DNA-Bewerker gea
 en kan de effecten van DNA bewerkende virussen ongedaan maken.
 +++
 ![](Cas9.jpg)
+---
+## Maar wij kunnen Cas-9 toch niet aansturen?
++++
+### 1) Cas-9 kan heel makkelijk aangestuurd worden om aangepaste bewerkingen te maken.
+### 2) Kan ik gewoon doorgaan met mijn presentatie
++++
+Cas-9 kan.
+1) Cas-9 heeft de mogelijkheid om genen te deactiveren dan verstoort Cas-9 de normale wering van dat gen
+2) Cas-9 kan dit laatste paren met het invoegen van genen.
+dit tweede zorgt ervoor dat we een gen effectief kunnen veranderen
+---
+## is dit wel ethsich verantwoord
++++
+De ethische verantwoording hangt af van de situatie.
+Als de vraag is dat we bijvoorbeeld ziektes zoals kanker kunnen stoppen is dit een goed gegeven
+Aan de andere kant kunnen we dan ook mensen samenstellen(Ikea voor mensen), Of er is de mogelijkheid dat iemand met slechte bedoelingen een superdodelijk virus maakt.
+---
+# Vragen?
++++
+# Vragen?
+## Nee
++++
+# Vragen?
+## Nee, ok goed
