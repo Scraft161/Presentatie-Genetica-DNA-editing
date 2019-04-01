@@ -10,7 +10,7 @@ Verder werd DNA ontekt door Johann Fredrich Miescher in 1869
 +++
 en bestaat uit een dubbele helix van twee RNA strengen die met elkaar verbonden zijn door waterstofbruggen
 +++
-![](DNA-grootte.jpg)
+![](DNA-grootte.png)
 +++
 op een cromosoon bevinden de genen zich, een gen heeft een of meer DNA-sequenties
 ---
@@ -31,7 +31,7 @@ CRISPR kan samen met Cas-9 gebruikt worden om gericht dna te bewerken
 Cas-9 oftewel CRISPR associated proteine 9 is een RNA gestuurde DNA-Bewerker geassocieerd met het CRISPR-immuumsysteem.
 en kan de effecten van DNA bewerkende virussen ongedaan maken.
 +++
-![](Cas9.jpg)
+![](Cas9.png)
 ---
 ## Maar wij kunnen Cas-9 toch niet aansturen?
 +++
