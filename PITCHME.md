@@ -56,3 +56,7 @@ Aan de andere kant kunnen we dan ook mensen samenstellen(Ikea voor mensen), Of e
 +++
 # Vragen?
 ## Nee, ok goed
+---
+# Bronnen
+Wikipedia
+[![Kurzgesagt](https://www.youtube.com/watch?v=jAhjPd4uNFY)
